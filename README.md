@@ -7,7 +7,7 @@
 **Time Zone:** GMT
 
 ## How I work
-* When I need tom concentrate, I listen to music.
+* When I need to concentrate, I listen to music.
 * I prefer to work individually, but I also love pairing!
 
 ## Times I work
