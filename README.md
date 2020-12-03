@@ -29,7 +29,7 @@
 ## What's in my toolbelt
 
 * If you pair with me, most likely I will be encouraging [Test-Driven-Development (TDD)](https://cleancoders.com/episode/clean-code-episode-6-p1). I tend to follow classic TDD with red-green-refactor. There are many interpretations/misinterpretations of TDD but feel free to pair with me to see how I do it.
-* Pair Programming is very valuable. I love being able to tackle problems with a pair. Not only is it a great learning experience for myself, I hope it will also be valuable to you when we pair.
+* [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) is very valuable. I love being able to tackle problems with a pair. Not only is it a great learning experience for myself, I hope it will also be valuable to you when we pair.
 * My favourite langauge is TypeScript. I have long been a user of JavaScript, but I have fallen in love with the type system with TS. It removes a lot of guarding that I would normally need to do in JS.
 * Serverless....
 * Clean Code is a big +1 for me. I favour small and simple implementations over unecessarily complex.
