@@ -33,6 +33,7 @@
 * My favourite langauge is TypeScript. I have long been a user of JavaScript, but I have fallen in love with the type system with TS. It removes a lot of guarding that I would normally need to do in JS.
 * Serverless....
 * Clean Code is a big +1 for me. I favour small and simple implementations over unecessarily complex.
+* Some acronyms I like: Write Everything Twice (WET), Nike/Just F*cking Do it (JFDI)*
 
 ## Other things to consider
 
