@@ -12,7 +12,7 @@
 
 ## Times I work
 * Outside of Project Fursona, I have full time 9-5 job on the weekdays.
-* I am to commit a minimum of 8 hours a week to this project.
+* I am able to commit a minimum of 8 hours a week to this project.
 * I tend to be sporadic when I work on this project, my personal life can sometimes be unexpected so I may not be able to commit to everything.
 * When I do work on this project, it will usually be after 6PM GMT on weekdays and any time on weekends.
 
